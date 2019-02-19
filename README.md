@@ -4,12 +4,14 @@
 2. Inputkan angka 5 di nilai (n)
 3. Processing random angka dengan nilai (n) yaitu 5 buah bilangan
 4. Hasil output random angka dengan nilai (n) yaitu (5) buah bilangan
+
 ![foto2](https://raw.githubusercontent.com/adammaulana/labpy03/master/latihan%202.png)
 1. Run (F5)
 2. Inputkan angka berapapun
 3. Processing mencari bilangan terbesar
 4. Inputkan angka (0) untuk mengakhiri
 5. Hasil output menampilkan bilangan terbesar
+
 ![foto3](https://raw.githubusercontent.com/adammaulana/labpy03/master/praktikum%203.png)
 1. Run (F5)
 2. Laba Bulan Ke-1 sampai Laba Bulan ke-8 seluruhnya di tambah (+)
